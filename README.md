@@ -1,5 +1,5 @@
-Olá, eu sou Kleberson Araújo e atualmente...
+Computer Engineering from the Federal University of Pernambuco.
 
-➡ Estou em uma transição para área da programação. <br>
-📚 Estudando Ciência da Computação - UFPE. <br>
-💻 Aprendendo HTML, CSS e JS. 
+Please contact me:
+* LinkedIn: [Kleberson Araújo](https://www.linkedin.com/in/klebersonaraujo/)
+* E-mail: kleberson.bezerra@gmail.com
