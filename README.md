@@ -1,7 +1,6 @@
-## Faaaala dev, Luigi Aqui!
+## Hello World, I am Kleberson!
 
 <div>
-  
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=KleberAraujoo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KleberAraujoo&layout=compact&langs_count=16&theme=github_dark"/>
 </div>
@@ -11,19 +10,15 @@
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Technology</h1>
-    <img align="center" height="30" width="40" alt="js-icon"  src="[![My Skills](https://skillicons.dev/icons?i=jlinkedin)](https://skillicons.dev)">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
-   </div>
-    
+   </div>  
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "Kleberson: kleberson.bezerra@hotmail.com">
-      <img width="30" src="gmail.svg">
+      <img width="30" src="outlook.svg">
     </a>
     <a href = "(https://www.linkedin.com/in/klebersonaraujo/)">
       <img width="25" src="linkedin.svg">
